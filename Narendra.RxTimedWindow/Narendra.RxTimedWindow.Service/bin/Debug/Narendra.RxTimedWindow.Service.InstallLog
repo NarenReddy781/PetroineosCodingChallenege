@@ -1,0 +1,56 @@
+﻿Installing assembly 'C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.InstallLog
+   assemblypath = C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.InstallLog
+   assemblypath = C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.InstallLog
+   assemblypath = C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.exe
+Rolling back assembly 'C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.InstallLog
+   assemblypath = C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.exe
+Installing assembly 'C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.exe
+   logfile = C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.InstallLog
+Rolling back assembly 'C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.exe
+   logfile = C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.InstallLog
+Installing assembly 'C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.InstallLog
+   assemblypath = C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.exe
+Rolling back assembly 'C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.InstallLog
+   assemblypath = C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.exe
+Installing assembly 'C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.InstallLog
+   assemblypath = C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.InstallLog
+   assemblypath = C:\Users\naren\source\repos\RxTimedWindow\AlanAamy.Net.RxTimedWindow\AlanAamy.Net.RxTimedWindow.Service\bin\Debug\AlanAamy.Net.RxTimedWindow.Service.exe
